@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C# revison\Tic tak to game\bin\Release\Tic tak to game.exe.config
+C:\Users\hp\Desktop\C# revison\Tic tak to game\bin\Release\Tic tak to game.exe
+C:\Users\hp\Desktop\C# revison\Tic tak to game\bin\Release\Tic tak to game.pdb
+C:\Users\hp\Desktop\C# revison\Tic tak to game\obj\Release\Tic tak to game.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C# revison\Tic tak to game\obj\Release\Tic tak to game.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C# revison\Tic tak to game\obj\Release\Tic tak to game.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C# revison\Tic tak to game\obj\Release\Tic tak to game.exe
+C:\Users\hp\Desktop\C# revison\Tic tak to game\obj\Release\Tic tak to game.pdb
